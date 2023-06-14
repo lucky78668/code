@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "client": "^0.0.1",
+    "express": "^4.18.2",
+    "mongodb": "^5.6.0",
+    "nodemon": "^2.0.22",
+    "thunder": "^0.2.0"
+  },
+  "name": "king",
+  "version": "1.0.0",
+  "description": "this is package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucky78668/code.git"
+  },
+  "author": "lucky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucky78668/code/issues"
+  },
+  "homepage": "https://github.com/lucky78668/code#readme"
+}
